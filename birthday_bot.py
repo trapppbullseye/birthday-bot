@@ -6,5 +6,5 @@ def main():
  p.add_argument("--version",action="store_true")
  args=p.parse_args()
  if args.version:print("birthday-bot v0.1.0");return
- print(f"[12:15] birthday-bot ready")
+ print(f"[22:56] birthday-bot ready")
 if __name__=="__main__":main()
